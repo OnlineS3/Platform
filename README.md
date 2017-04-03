@@ -1,3 +1,5 @@
+#Platform
+
 OnlineS3 Platform, an e-policy website, Copyright (C) 2017 by ONLINE-S3 Consortium
 
         OnlineS3 Platform is free software: you can redistribute it and/or modify
