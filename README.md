@@ -14,3 +14,10 @@ OnlineS3 Platform, an e-policy website, Copyright (C) 2017 by ONLINE-S3 Consorti
 
         You should have received a copy of the GNU General Public License
         along with OnlineS3 Platform.  If not, see <http://www.gnu.org/licenses/>.
+
+## Prerequisites
+
+## Installing
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/MIT) file for details
